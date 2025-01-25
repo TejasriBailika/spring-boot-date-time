@@ -3,5 +3,5 @@ This is a simple Spring Boot application that provides the current date and time
 
 ## Project Structure
 - **`DateandtimeApplication.java`**: The main entry point of the Spring Boot application.
-- 
+
 - **`DateTimeController.java`**: A REST controller that defines the `/datetime` endpoint to return the current date and time.
