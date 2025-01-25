@@ -11,4 +11,5 @@ Follow these steps to run the application locally:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/TejasriBailika/dateandtime.git
+git clone  https://github.com/TejasriBailika/spring-boot-date-time.git
+
