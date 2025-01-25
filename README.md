@@ -9,4 +9,4 @@ This is a simple Spring Boot application that provides the current date and time
 ## Example Output
 When you visit the `/datetime` endpoint, you’ll get:
 
-![Output Screenshot](output-screenshot.png)
+![Output Screenshot](output.png)
