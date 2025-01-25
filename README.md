@@ -6,10 +6,7 @@ This is a simple Spring Boot application that provides the current date and time
 
 - **`DateTimeController.java`**: A REST controller that defines the `/datetime` endpoint to return the current date and time.
 
-## How to Run
-Follow these steps to run the application locally:
+## Example Output
+When you visit the `/datetime` endpoint, you’ll get:
 
-### 1. Clone the repository:
-```bash
-git clone  https://github.com/TejasriBailika/spring-boot-date-time.git
-
+![Output Screenshot](output-screenshot.png)
